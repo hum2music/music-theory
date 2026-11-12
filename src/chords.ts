@@ -1,4 +1,4 @@
-import { NOTE_NAMES, pitchClassOf } from "./pitch-class";
+import { NOTE_NAMES, pitchClassOf } from "./pitch-class.ts";
 
 export type ChordQuality = "major" | "minor" | "dominant7" | "major7" | "minor7" | "sus2" | "sus4";
 

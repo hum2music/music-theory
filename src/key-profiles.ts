@@ -1,4 +1,4 @@
-import type { ScaleMode } from "./scales";
+import type { ScaleMode } from "./scales.ts";
 
 /**
  * Krumhansl-Kessler key profiles: empirically measured perceived stability

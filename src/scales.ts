@@ -1,4 +1,4 @@
-import { pitchClassOf } from "./pitch-class";
+import { pitchClassOf } from "./pitch-class.ts";
 
 export type ScaleMode = "major" | "minor";
 
