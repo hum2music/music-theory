@@ -1,6 +1,6 @@
 {
   "name": "@hum2music/music-theory",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Pitch-class, chord, scale, and key-profile primitives used across Hum2Music.",
   "license": "Apache-2.0",
   "homepage": "https://github.com/hum2music/music-theory",
